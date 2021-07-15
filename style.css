@@ -1,14 +1,22 @@
 body {background-color:black;}
 h1{color:grey;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
 }
  
 .maindiv{
-	text-align: justify;
+	text-align: left;
     background-color: white;
     color: black;
     width: 550px;
     padding: 20px;
     border-radius: 25px;
-    margin: auto;
+    margin:auto;
+}
+.formvals{
+	margin-left: 150px;
+}
+.footer{
+	margin-left: 30px;
+	text-align: left;
 }
